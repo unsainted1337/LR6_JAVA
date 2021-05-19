@@ -14,10 +14,6 @@ public class Main {
                     list.add(i);
                 }
 
-                List<String> list2 = new ArrayList<>();
-                list2.add("ssss");
-                list2.add("gg");
-                list2.add("wp");
 
 
                 Integer[] array = new Integer[] { 1,2,3,4,5,6,7,8,9,0};
